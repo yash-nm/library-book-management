@@ -1,6 +1,6 @@
 # Library Book Management
 
-A Core Java project that simulates a Library Book Management System. This console-based application demonstrates core Java principles and uses `HashMap` to manage both books and borrower information efficiently.
+A Core Java project that simulates a Library Book Management System. This console-based application demonstrates object-oriented programming principles and uses Java Collections (`HashMap` and `HashSet`) to manage books and borrower information efficiently.
 
 ## 📌 Features
 
@@ -9,6 +9,7 @@ A Core Java project that simulates a Library Book Management System. This consol
 - Delete books from the library
 - View all available books
 - Track borrower list using HashMap
+- Prevent duplicate books using HashSet
 - Menu-driven command-line interface
 
 ## 🛠 Technologies Used
@@ -17,13 +18,13 @@ A Core Java project that simulates a Library Book Management System. This consol
 - Core Java Concepts:
   - Classes & Objects
   - Encapsulation
-  - HashMap (Collections Framework)
+  - Packages (`mainpackage`)
+  - HashMap and HashSet (Collections Framework)
   - Exception Handling
-  - (Optional) File I/O
 
 ## 🚀 How to Run
 
-> ⚠️ You cannot run this project directly on GitHub. You need to download or clone it and run it on your local machine.
+> ⚠️ You cannot run this project directly on GitHub. Clone or download it, and run it locally.
 
 1. Clone the repository:
    ```bash
